@@ -2,6 +2,7 @@
 ### Makes life easy on day to day basis
 
 - NotePad++ Hacks
+- Sublime Text
 - Vi Editor Hacks
 - Vim Editor Hacks
 - grep Hacks
