@@ -1,6 +1,9 @@
 # How can I Bookmark multiples selected lines (to use with F2 after)
 ---
-Example of Bookmark into Notepad++
+- Example of Bookmark into Notepad++
+- The Blue Circle showing in below snap is Bookmark
+
+  
 ![image](https://github.com/user-attachments/assets/38c248ef-5824-4ba6-b7dd-81ab81c2e501)
 
 1. Select all N lines with shift-and-arrows or dragging the mouse.
