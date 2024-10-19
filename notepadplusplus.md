@@ -1,5 +1,7 @@
-# How can I mark multiples selected lines (to use with F2 after)
+# How can I Bookmark multiples selected lines (to use with F2 after)
 ---
+Example of Bookmark into Notepad++
+![image](https://github.com/user-attachments/assets/38c248ef-5824-4ba6-b7dd-81ab81c2e501)
 
 1. Select all N lines with shift-and-arrows or dragging the mouse.
 2. Press `Ctrl+M` (or go to **Search** > **Mark**) to bring up the Mark dialog.
