@@ -1,4 +1,9 @@
 - Get up to speed with partial clone and shallow clone
   - https://github.blog/open-source/git/get-up-to-speed-with-partial-clone-and-shallow-clone/
-- everything-is-local
+- Everything-is-local
   - https://git-scm.com/docs/git-log
+- atlassian Git
+  - Advanced Git log
+    - https://www.atlassian.com/git/tutorials/git-log
+  - Merging vs. rebasing
+    - https://www.atlassian.com/git/tutorials/merging-vs-rebasing
