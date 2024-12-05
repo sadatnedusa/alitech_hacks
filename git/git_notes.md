@@ -1,0 +1,4 @@
+- Get up to speed with partial clone and shallow clone
+  - https://github.blog/open-source/git/get-up-to-speed-with-partial-clone-and-shallow-clone/
+- everything-is-local
+  - https://git-scm.com/docs/git-log
