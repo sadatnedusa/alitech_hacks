@@ -32,4 +32,6 @@ Open Notepad++.
 
   - Enter **^[ \t]*$\r?\n** into Find what:, leave Replace empty.
     - This will match all lines starting with white space and ending with carriage return (in this case a Windows crlf)
+    - ![image](https://github.com/user-attachments/assets/4581c842-02b2-47f2-986e-14d7aaf72f54)
+
     - Click the Find Next button to see for yourself how it matches only empty lines.
