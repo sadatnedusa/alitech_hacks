@@ -1,9 +1,8 @@
 # How can I Bookmark multiples selected lines (to use with F2 after)
----
+
 - Example of Bookmark into Notepad++
 - The Blue Circle showing in below snap is Bookmark
 
-  
 ![image](https://github.com/user-attachments/assets/38c248ef-5824-4ba6-b7dd-81ab81c2e501)
 
 1. Select all N lines with shift-and-arrows or dragging the mouse.
@@ -19,5 +18,18 @@
 
 5. If the last line of your selection happens to be the last line in the file, with no EOL sequence, that expression might miss the last line. You can either manually bookmark that line (`Ctrl+F2` or click in the bookmark column of the GUI), or you could change the expression to something like `\R|^.*\Z`.
 
+   - https://community.notepad-plus-plus.org/topic/20458/how-can-i-mark-multiples-selected-lines-to-use-with-f2-after/2
 
-https://community.notepad-plus-plus.org/topic/20458/how-can-i-mark-multiples-selected-lines-to-use-with-f2-after/2
+---
+# Remove empty lines from Notepad ++
+
+Open Notepad++. 
+  - Press Ctrl+H
+    - ![image](https://github.com/user-attachments/assets/4af863c6-5ba8-44f9-8d5c-c77c9e986ce5)
+
+  - Select Regular Expression
+    - ![image](https://github.com/user-attachments/assets/4f43cb61-2c48-441f-b25e-fbfdf0c1534c)
+
+  - Enter ^[ \t]*$\r?\n into Find what, leave Replace empty.
+    - This will match all lines starting with white space and ending with carriage return (in this case a Windows crlf)
+    - Click the Find Next button to see for yourself how it matches only empty lines.
