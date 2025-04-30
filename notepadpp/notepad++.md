@@ -25,7 +25,7 @@
 
 Open Notepad++. 
   - Press Ctrl+H
-    - ![image](https://github.com/user-attachments/assets/4af863c6-5ba8-44f9-8d5c-c77c9e986ce5)
+    - Search Menu -> ![image](https://github.com/user-attachments/assets/4af863c6-5ba8-44f9-8d5c-c77c9e986ce5)
 
   - Select Regular Expression
     - ![image](https://github.com/user-attachments/assets/4f43cb61-2c48-441f-b25e-fbfdf0c1534c)
